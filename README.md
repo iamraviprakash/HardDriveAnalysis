@@ -25,7 +25,7 @@
   for 45 different SMART stats as reported by the given drive
 
 #### Tasks
++ What is the median survival time of a hard drive w.r.t size?
++ What is the maximum survival time of a model of hard drive?
++ What is the median survival time of a model of hard drive?
 + What is the median survival time of a hard drive?
-+ How does this differ by model/manufacturer?
-+ How does this differ by disk size?
-+ Calculate the probability that a hard drive will fail given the hard drive information and statistics in the dataset.
