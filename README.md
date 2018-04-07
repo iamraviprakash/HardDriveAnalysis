@@ -1,6 +1,5 @@
 # HardDriveAnalysis
 
-### Course: Distributed Computing
 
 #### Introduction
 > Java codes for data analytics stuffs on Hard disk data using the map-reducer algorithm with Hadoop framework.
