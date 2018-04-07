@@ -3,7 +3,7 @@
 ### Course: Distributed Computing
 
 #### Introduction
-> It's an assignment to perform data analytics stuffs on Hard disk data using the map-reducer algorithm of Hadoop framework.
+> Java codes for data analytics stuffs on Hard disk data using the map-reducer algorithm with Hadoop framework.
 
 #### Data-set Facts
  * <strong>Name</strong>: Hard Drive Test Data
