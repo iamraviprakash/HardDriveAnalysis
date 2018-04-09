@@ -30,3 +30,11 @@
 2. What is the maximum survival time of a model of hard drive?
 3. What is the median survival time of a model of hard drive?
 4. What is the median survival time of a hard drive?
+
+#### How to Run
+> Follow the hadoop command below to execute the jar file.
+   $ hadoop jar [Task jar file] [path of input folder in hdfs] [path of output folder in hdfs] 
+   
+#### Assumptions
+* You have already configured hadoop in your system. If not, please follow Tutorials Point's tutorial on [Hadoop](https://www.google.com).
+* Hadoop is configured in pseudo-distributed mode.
